@@ -1,0 +1,8 @@
+01-10-2024 17:36:49: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:37:00: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:41:17: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:41:28: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:42:10: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:42:20: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:42:31: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-10-2024 17:43:07: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 

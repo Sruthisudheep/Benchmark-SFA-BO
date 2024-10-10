@@ -1,0 +1,2 @@
+05-07-2024 13:26:45: General Functions 4 :- sp_SettlementApproval:SelectSettlementStatusError : Could not find stored procedure 'sp_SettlementApproval'. - 
+05-07-2024 13:26:47: General Functions 4 :- sp_SettlementApproval:SelectSettlementStatusError : Could not find stored procedure 'sp_SettlementApproval'. - 

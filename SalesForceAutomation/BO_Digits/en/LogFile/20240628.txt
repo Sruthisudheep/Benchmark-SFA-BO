@@ -1,0 +1,15 @@
+28-06-2024 11:54:33: General Functions 4 :- sp_ReturnRequest:ListReturnApprovalHeaderError : 'isnul' is not a recognized built-in function name.
+Incorrect syntax near 'rah_ApprovalStatus'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon. - 
+28-06-2024 11:54:36: General Functions 4 :- sp_ReturnRequest:ListReturnApprovalHeaderError : 'isnul' is not a recognized built-in function name.
+Incorrect syntax near 'rah_ApprovalStatus'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon. - 
+28-06-2024 11:54:43: General Functions 4 :- sp_ReturnRequest:ListReturnApprovalHeaderError : 'isnul' is not a recognized built-in function name.
+Incorrect syntax near 'rah_ApprovalStatus'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon. - 
+28-06-2024 11:54:44: General Functions 4 :- sp_ReturnRequest:ListReturnApprovalHeaderError : 'isnul' is not a recognized built-in function name.
+Incorrect syntax near 'rah_ApprovalStatus'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon. - 
+28-06-2024 11:54:47: General Functions 4 :- sp_ReturnRequest:ListReturnApprovalHeaderError : 'isnul' is not a recognized built-in function name.
+Incorrect syntax near 'rah_ApprovalStatus'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon. - 

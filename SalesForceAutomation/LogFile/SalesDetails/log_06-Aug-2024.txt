@@ -1,0 +1,6 @@
+06-Aug-2024 17:16:50-SalesDetailCould not find a part of the path 'D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf'.Sal_ID=82186
+06-Aug-2024 17:29:21-SalesDetailCould not find a part of the path 'D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf'.Sal_ID=82187
+06-Aug-2024 17:29:28-SalesDetailCould not find a part of the path 'D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf'.Sal_ID=82187
+06-Aug-2024 17:29:46-SalesDetailCould not find a part of the path 'D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf'.Sal_ID=82187
+06-Aug-2024 17:32:34-SalesDetailCould not find a part of the path 'D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf'.Sal_ID=82187
+06-Aug-2024 17:32:40-SalesDetail Path=D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf

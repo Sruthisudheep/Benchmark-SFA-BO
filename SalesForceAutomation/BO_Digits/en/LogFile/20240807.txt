@@ -1,0 +1,40 @@
+07-08-2024 15:33:59: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'ord_rot_ID'. - 
+07-08-2024 16:00:20: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'ord_rot_ID'. - 
+07-08-2024 16:00:20: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:21: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:26: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:29: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:30: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:30: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:36: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:37: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:38: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:38: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:00:52: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:01:05: General Functions 4 :- sp_Merchandising_UOM:ListOrderError : Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'.
+Invalid column name 'rcs_cus_Type'. - 
+07-08-2024 16:02:47: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'ord_rot_ID'. - 
+07-08-2024 16:04:11: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'ord_rot_ID'. - 

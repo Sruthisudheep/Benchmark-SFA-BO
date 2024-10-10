@@ -1,0 +1,7 @@
+08-10-2024 12:46:09: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Invalid column name 'usr_Name'. - 
+08-10-2024 12:46:30: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Invalid column name 'usr_Name'. - 
+08-10-2024 12:46:34: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Invalid column name 'usr_Name'. - 
+08-10-2024 17:32:22: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+08-10-2024 17:38:05: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+08-10-2024 17:38:48: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+08-10-2024 18:13:06: General Functions 6 :- sp_LeftNavigationError : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) - The semaphore timeout period has expired

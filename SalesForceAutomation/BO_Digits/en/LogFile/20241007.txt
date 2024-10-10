@@ -1,0 +1,5 @@
+07-10-2024 15:24:13: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'sal_rot_ID'. - 
+07-10-2024 15:44:45: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'sal_rot_ID'. - 
+07-10-2024 15:48:06: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'sal_rot_ID'. - 
+07-10-2024 15:53:23: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'sal_rot_ID'. - 
+07-10-2024 23:09:49: General Functions 4 :- sp_Masters:SelCustomerforTransactionError : Invalid column name 'sal_rot_ID'. - 

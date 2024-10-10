@@ -1,0 +1,1 @@
+26-09-2024 16:51:41: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 

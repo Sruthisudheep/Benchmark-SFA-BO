@@ -1,0 +1,11 @@
+26-07-2024 12:10:44: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+26-07-2024 12:10:50: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+26-07-2024 12:15:47: DailyActivityReview.aspx :- Error : Thread was being aborted. - 
+26-07-2024 12:16:59: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+26-07-2024 16:50:20: General Functions 3 :- sp_DashboardError : A severe error occurred on the current command.  The results, if any, should be discarded. - 
+26-07-2024 18:14:21: DailyActivityReview.aspx :- Error : Thread was being aborted. - 
+26-07-2024 18:26:59: General Functions 4 :- sp_DailyActivityReview:SelDailyActivityReportError : Cannot perform an aggregate function on an expression containing an aggregate or a subquery. - 
+26-07-2024 18:28:55: DailyActivityReview.aspx :- Error : Thread was being aborted. - 
+26-07-2024 18:46:49: DailyActivityReview.aspx :- Error : Thread was being aborted. - 
+26-07-2024 18:47:40: DailyActivityReview.aspx :- Error : Thread was being aborted. - 

@@ -1,0 +1,22 @@
+19-07-2024 16:31:00: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Invalid column name 'crf_prd_ID'.
+Invalid column name 'crf_rcs_ID'. - 
+19-07-2024 16:31:01: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+19-07-2024 16:33:23: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+19-07-2024 16:33:25: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+19-07-2024 16:33:25: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+19-07-2024 16:33:26: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+19-07-2024 16:35:03: General Functions 4 :- sp_wb_merch_others:ListCustomerFOCError : The multi-part identifier "B.CreatedDate" could not be bound.
+The multi-part identifier "B.CreatedDate" could not be bound. - 
+19-07-2024 16:51:33: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Invalid column name 'crf_prd_ID'.
+Invalid column name 'crf_rcs_ID'. - 
+19-07-2024 17:38:48: General Functions 4 :- sp_ProfileSettings:SelProfileHeaderforDropDownError : Could not find stored procedure 'sp_ProfileSettings'. - 
+19-07-2024 18:13:58: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Invalid column name 'crf_prd_ID'.
+Invalid column name 'crf_rcs_ID'. - 
+19-07-2024 19:15:40: General Functions 4 :- sp_ProfileSettings:SelProfileHeaderforDropDownError : Could not find stored procedure 'sp_ProfileSettings'. - 
+19-07-2024 19:17:10: General Functions 4 :- sp_ProfileSettings:SelProfileHeaderforDropDownError : Could not find stored procedure 'sp_ProfileSettings'. - 
+19-07-2024 19:26:49: General Functions 4 :- sp_ProfileSettings:SelProfileHeaderforDropDownError : Could not find stored procedure 'sp_ProfileSettings'. - 

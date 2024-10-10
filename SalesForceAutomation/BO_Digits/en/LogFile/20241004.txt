@@ -1,0 +1,24 @@
+04-10-2024 10:23:48: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'.
+Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:23:48: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'.
+Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:31: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'.
+Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:33: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:35: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:40: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:42: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:44: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:24:52: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:25:03: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:25:19: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 10:26:59: General Functions 4 :- sp_ReturnRequest:ListReturnReqApprovalHeaderError : Ambiguous column name 'usr_Name'. - 
+04-10-2024 15:48:03: CreditNoteReqApprovalHeader.aspx PageLoad() :- Error : You should not call DataBind in NeedDataSource event handler. DataBind would take place automatically right after NeedDataSource handler finishes execution. - 
+04-10-2024 15:56:39: CreditNoteReqApprovalHeader.aspx PageLoad() :- Error : You should not call DataBind in NeedDataSource event handler. DataBind would take place automatically right after NeedDataSource handler finishes execution. - 
+04-10-2024 15:59:16: CreditNoteReqApprovalHeader.aspx PageLoad() :- Error : You should not call DataBind in NeedDataSource event handler. DataBind would take place automatically right after NeedDataSource handler finishes execution. - 
+04-10-2024 16:41:24: General Functions 4 :- sp_Transaction:SelVanToVanHeaderapprovalError : Invalid column name 'usr_Name'. - 
+04-10-2024 16:41:24: General Functions 4 :- sp_Transaction:SelVanToVanHeaderapprovalError : Invalid column name 'usr_Name'. - 
+04-10-2024 16:48:36: General Functions 4 :- sp_wb_merch_others:SelectCustomerByRouteError : Invalid column name 'udp_rot_ID'. - 
+04-10-2024 16:54:08: General Functions 3 :- sp_wb_merch_othersError : The correlation name 'I' is specified multiple times in a FROM clause. - 
+04-10-2024 16:54:09: General Functions 3 :- sp_wb_merch_othersError : The correlation name 'I' is specified multiple times in a FROM clause. - 
+04-10-2024 16:55:05: General Functions 4 :- sp_wb_merch_others:SelectCustomerByRouteError : Invalid column name 'udp_rot_ID'. - 

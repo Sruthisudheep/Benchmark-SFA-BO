@@ -1,0 +1,18 @@
+27-09-2024 15:14:17: SettlementReports.aspx  :- Error : There is no row at position 0. - 
+27-09-2024 18:11:00: General Functions 3 :- sp_SettlementError : Invalid object name 'dbo.tb_SettlementApprovalPayModes'. - 
+27-09-2024 18:14:20: General Functions 3 :- sp_SettlementError : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.) - The wait operation timed out
+27-09-2024 18:14:40: General Functions 3 :- sp_SettlementError : Invalid object name 'dbo.tb_SettlementApprovalPayModes'. - 
+27-09-2024 18:14:54: General Functions 3 :- sp_SettlementError : Invalid object name 'dbo.tb_SettlementApprovalPayModes'. - 
+27-09-2024 18:22:28: General Functions 3 :- sp_SettlementError : Invalid object name 'dbo.tb_SettlementApprovalPayModes'. - 
+27-09-2024 19:10:56: AddEditUser.aspx btnSave_Click() :- Error : Object reference not set to an instance of an object. - 
+27-09-2024 20:03:13: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:03:42: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:04:02: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:21:08: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:25:41: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:27:24: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:28:11: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:29:18: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:33:37: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:34:13: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 
+27-09-2024 20:36:45: AddEditUser.aspx btnSave_Click() :- Error : Input string was not in a correct format. - 

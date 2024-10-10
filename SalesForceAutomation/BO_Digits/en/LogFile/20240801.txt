@@ -1,0 +1,4 @@
+01-08-2024 09:32:50: General Functions 3 :- sp_MerchandisingError : Incorrect syntax near '<'. - 
+01-08-2024 10:23:31: General Functions 3 :- sp_MerchandisingError : Incorrect syntax near '<'. - 
+01-08-2024 19:57:32: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 
+01-08-2024 20:05:59: General Functions 4 :- sp_wb_merch_others:SelectProductByCusRotError : Incorrect syntax near 'rcs_cus_ID'. - 

@@ -1,0 +1,4 @@
+07-Oct-2024 15:26:00-SalesDetail Path=D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf
+07-Oct-2024 15:44:36-SalesDetail Path=D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf
+07-Oct-2024 15:49:58-SalesDetail Path=D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf
+07-Oct-2024 15:54:16-SalesDetail Path=D:\Turbosoft Projects\Benchmark_UAT_Git\Benchmark_UAT_Git\SalesForceAutomation\Downloads\CreditandCashInvoice.pdf
