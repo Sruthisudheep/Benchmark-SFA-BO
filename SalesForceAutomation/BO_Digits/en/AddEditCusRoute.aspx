@@ -1497,6 +1497,9 @@
                     <span id="Success"></span>
                 </div>
                 <div class="modal-footer">
+                    <div class="row px-8">
+                         <asp:Label ID="lblerror" runat="server" ForeColor="Green" Font-Size="Smaller">All available promotions and special prices for this customer will be automatically assigned to the new route.</asp:Label>
+                    </div>
                     <telerik:RadAjaxPanel ID="RadAjaxPanel3" runat="server" LoadingPanelID="RadAjaxLoadingPanel4">
 
                         <asp:LinkButton ID="Proceedmap" runat="server" Text="Proceed with Item Mapping" OnClick="Proceedmap_Click" CssClass="btn btn-sm fw-bold btn-primary" CausesValidation="false"  Visible="false"/>                         

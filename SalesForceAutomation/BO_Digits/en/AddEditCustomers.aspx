@@ -3028,7 +3028,9 @@
                 <%-- Route Mapping starts --%>
 
                 <div class="modal-content">
-
+                 <div class="row px-8">
+                      <asp:Label ID="lblerror" runat="server" ForeColor="Green" Font-Size="Smaller">All available promotions and special prices for this customer will be automatically assigned to the new route.</asp:Label>
+                 </div>
 
                     <div class="modal-footer">
                         <telerik:RadAjaxPanel ID="RadAjaxPanel16" runat="server" LoadingPanelID="RadAjaxLoadingPanel4">
